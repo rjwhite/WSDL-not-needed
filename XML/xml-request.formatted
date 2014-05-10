@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope
+    soap:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"
+    xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"  
+    xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <soap:Body>
+  <fetchdata xmlns="http://192.168.1.20:8888/TestWS">
+   <c-gensym3 xsi:type="xsd:string">/etc/motd</c-gensym3>
+  </fetchdata>
+ </soap:Body>
+</soap:Envelope>
