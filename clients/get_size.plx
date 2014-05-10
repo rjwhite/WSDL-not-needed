@@ -1,6 +1,6 @@
 #!/usr/bin/env perl
 
-# Get the size, in bytes, of a filename via SOAP call
+# Get the file mode and size, in bytes, of a filename via SOAP call
 
 use warnings;
 # use strict;
