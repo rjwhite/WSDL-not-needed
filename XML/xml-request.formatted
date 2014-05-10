@@ -6,7 +6,7 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <soap:Body>
-  <fetchdata xmlns="http://192.168.1.20:8888/TestWS">
+  <fetchdata xmlns="http://192.168.8.32:8080/TestWS">
    <c-gensym3 xsi:type="xsd:string">/etc/motd</c-gensym3>
   </fetchdata>
  </soap:Body>
