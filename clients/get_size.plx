@@ -3,11 +3,8 @@
 # Get the file mode and size, in bytes, of a filename via SOAP call
 
 use warnings;
-# use strict;
-# use SOAP::Lite ;
-use strict "refs" ;
-use strict "vars" ;
-use SOAP::Lite +trace ;
+use strict;
+use SOAP::Lite ;
 
 my $filename    = $ARGV[0] || '/etc/motd';
 my $ip_address  = '192.168.8.32' ;
