@@ -6,7 +6,7 @@ source programs from blog posting: Living without WSDL files in a SOAP infested 
 This is a collection of files used in the blog posting
     "Living without WSDL files in a SOAP infested world"
 found at:
-    http://www.moxad.com/living-without-wsdl-files-in-a-soap-infested-world
+    http://www.moxad.com/blog/Living-without-WSDL.html
 
 The client files are under clients/
 There are XML examples under XML/
